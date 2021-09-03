@@ -1,5 +1,7 @@
-### Olá, Tudo Bem? Me Chamo Mateus Andrade 👋
-
+### Olá, Tudo Bem? Me Chamo Mateus Andrade 👋<div><img align="left" alt="bay-yoda3" height="50" width="60" src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif">
+</div>
+<br>
+<br>
 
 - 🔭 Hoje estou aprendendo mas logo trabalhando com JavaScript, em Back e Front.
 - 🌱 Estudando JavaScript.
@@ -8,8 +10,8 @@
 ##
  <div>
   <a href="https://github.com/MateuzAndrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuzandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzandrade&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mateuzandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzandrade&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -18,6 +20,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="baby-yoda" height="90" width="100" src="https://c.tenor.com/K7l3fDqAQA8AAAAi/baby-yoda-star-wars.gif">
+  <img align="right" alt="baby-yoda2" height="90" width="130" src="https://c.tenor.com/6Ja4z2BN2-gAAAAi/baby-yoda.gif">
 </div>
   
  ##
