@@ -3,8 +3,8 @@
 <br>
 <br>
 
-- 🔭 Hoje estou aprendendo mas logo trabalhando com JavaScript, em Back e Front.
-- 🌱 Estudando JavaScript.
+- 🔭 Hoje estou aprendendo mas logo trabalhando com C#, em Back com .NET.
+- 🌱 Estudando C#.
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com
 - 😄 Pronouns: ele/dele
 ##
