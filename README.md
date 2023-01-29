@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 Hoje estou aprendendo mas logo trabalhando com C#.
+- 🔭 Hoje estou aprendendo mas logo trabalhando com ADVPL.
 - 🌱 Estudando C#.
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com
 - 😄 Pronouns: ele/dele
