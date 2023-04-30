@@ -3,8 +3,8 @@
 <br>
 <br>
 
-- 🔭 Hoje estou aprendendo mas logo trabalhando com ADVPL.
-- 🌱 Estudando C#.
+- 🔭 Hoje estou aprendendo mas logo trabalhando com Flutter.
+- 🌱 Estudando Dart.
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com
 - 😄 Pronouns: ele/dele
 ##
