@@ -3,9 +3,10 @@
 <br>
 <br>
 
-- 🔭 Hoje estou aprendendo mas logo trabalhando com Flutter.
-- 🌱 Estudando Java com Spring & Dart com Fluuter.
-- 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com
+- 🌱 Estudando Java com foco em Backend;
+- 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];
+- 🎓Bacahrel em Administração;
+- 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;
 - 😄 Pronouns: ele/dele
 ##
  <div>
