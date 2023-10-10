@@ -7,13 +7,7 @@
 - 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];
 - 🎓Bacahrel em Administração;
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;
-- 😄 Pronouns: ele/dele
 ##
- <div>
-  <a href="https://github.com/MateuzAndrade">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mateuzandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzandrade&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
