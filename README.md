@@ -2,10 +2,10 @@
 </div>
 <br>
 <br>
-- 🌱 Estudando Java com foco em Backend;
-- 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];
-- 🎓Bacahrel em Administração;
-- 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;
+- 🌱 Estudando Java com foco em Backend;<br>
+- 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];<br>
+- 🎓Bacahrel em Administração;<br>
+- 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;<br>
 ##
 
 <br>
