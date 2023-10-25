@@ -1,10 +1,11 @@
 ### Olá, Tudo Bem? Me Chamo Mateus Andrade 👋
+<br>
 
 - 🌱 Estudando Java com foco em Backend;<br>
 - 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];<br>
 - 🎓Bacahrel em Administração;<br>
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;<br>
-    ##
+  
 <br>
 
 ### Ferramentas e Tecnologias
