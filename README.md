@@ -4,8 +4,9 @@
 - 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];<br>
 - 🎓Bacahrel em Administração;<br>
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;<br>
+    ##
 <br>
-  ##
+
 ### Ferramentas e Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
