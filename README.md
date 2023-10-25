@@ -1,7 +1,6 @@
 ### Olá, Tudo Bem? Me Chamo Mateus Andrade 👋<div><img align="left" alt="bay-yoda3" height="50" width="60" src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif">
 </div>
 <br>
-<br>
 - 🌱 Estudando Java com foco em Backend;<br>
 - 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];<br>
 - 🎓Bacahrel em Administração;<br>
