@@ -1,15 +1,10 @@
 ### Olá, Tudo Bem? Me Chamo Mateus Andrade 👋<div><img align="left" alt="bay-yoda3" height="50" width="60" src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif">
 </div>
-<br>
 - 🌱 Estudando Java com foco em Backend;<br>
 - 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];<br>
 - 🎓Bacahrel em Administração;<br>
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;<br>
-##
-
 <br>
-<br>
-
 ### Ferramentas e Tecnologias
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
