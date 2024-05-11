@@ -3,6 +3,7 @@
 
 - 🌱 Estudando Angular para utilizar com Spring;<br>
 - 🧑🏻‍💻 Desenvolvendo Java com Spring;<br>
+- 🏢 Desenvolvedor na Unimed Campina Grandeg;<br>
 - 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];<br>
 - 🎓Bacahrel em Administração;<br>
 - 📫 Contate-me no e-mail: mateus.nascimento.andrade@gmail.com;<br>
