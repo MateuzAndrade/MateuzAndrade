@@ -3,7 +3,7 @@
 
 <br>
 <div style="display: inline_block">
-<img align="center" alt="Spring" height="30" width="40" src="https://tenor.com/pt-BR/view/baby-yoda-so-cute-the-mandalorian-hello-hi-gif-16772776">
+<img align="right" alt="baby-yoda-Hello" height="130" width="130" src="https://tenor.com/bixwO.gif">
 </div><br><br>
 - 🌱 Estudando Angular para utilizar com Spring;<br>
 - 🧑🏻‍💻 Desenvolvendo Java com Spring;<br>
