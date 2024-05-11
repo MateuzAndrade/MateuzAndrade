@@ -4,9 +4,6 @@
   <img align="left" alt="baby-yoda2" height="70" width="80" src="https://media.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif">
   <br>
 </div>
-<br>
-<br>
-<br>
 
 - 🌱 Estudando Angular para utilizar com Spring;<br>
 - 🧑🏻‍💻 Desenvolvendo Java com Spring;<br>
