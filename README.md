@@ -18,7 +18,7 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="right" alt="baby-yoda" height="90" width="100" src="https://c.tenor.com/K7l3fDqAQA8AAAAi/baby-yoda-star-wars.gif"> 
   <img align="right" alt="baby-yoda2" height="130" width="130" src="https://c.tenor.com/6Ja4z2BN2-gAAAAi/baby-yoda.gif">
-  <img align="right" alt="baby-yoda-Hello" height="130" width="130" src="https://tenor.com/bixwO.gif">
+  <img align="center" alt="baby-yoda-Hello" height="130" width="130" src="https://tenor.com/bixwO.gif">
 
 </div><br><br>
 <div> 
