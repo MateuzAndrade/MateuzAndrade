@@ -2,7 +2,7 @@
 
 <br><br><br>
 
-- 🌱 Estudando Angular para utilizar com Spring;<br>
+- 🌱 Estudando Angular para utilizar com Spring,e também iniciando no Ruby;<br>
 - 🧑🏻‍💻 Desenvolvendo Java com Spring;<br>
 - 🏢 Desenvolvedor na Unimed Campina Grande;<br>
 - 🎓Tecnologo em Análise e Desenvolvimento de Sistemas [Cursando];<br>
